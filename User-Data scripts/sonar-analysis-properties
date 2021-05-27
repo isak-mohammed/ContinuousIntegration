@@ -5,3 +5,4 @@ sonar.sources=src/
 sonar.java.binaries=target/test-classes/com/isakmohammed/account/controllerTest/
 sonar.junit.reportsPath=target/surefire-reports/
 sonar.jacoco.reportsPath=target/jacoco.exec
+#####
